@@ -15,13 +15,13 @@ client.on("message", vex => {
 if(vex.content.includes("discord.gg")){ 
     
     if (talkedRecently.has(vex.author.id)) {
-      vex.author.send("Wait 1 minute before getting typing this again. - ");
+      vex.author.send("😐 لەیەک دانە زیاتر دانانێم خۆت ئەزیەت مەدە😐 دانێ ئەگینا ڕیکلامەکە رەش دەکەمەوە لەگەل😁 ");
     } else {
 
 if(vex.channel.type === "dm"){ 
 if(vex.author.id===client.user.id) return; 
 vex.author.send("https://discord.gg/y6DjZNuUKd سلاوی خوای گەورە گشت تیمە کوردیەکان ئێمە وەک ستافی 4YOU تیدی ئێمە بەهێزەکە دەروێنن لەدوای ئەو کە سێرڤەرمان هاک کراو چەند مێمبەرێ کیک کرا ئەوانەی کە ریجستەریان بۆ تیدی ئێمەکە کردوە جۆینی سێرڤەر بکەنەوە لە بەرواری 25/1/2022 TDM ئێمەکە دەروێنم دوایەکا نەیەن کلەیی بکەن ئاگادار بن دەست پێدەکات لە رێکەوتی25/1/2022لەگەل رێزم بۆ هەموولایەک❤")
-let s2 = vex .content = vex.content.replace(/@(everyone)/, "🥰").replace(/@(here)/, "🥰");
+let s2 = vex .content = vex.content.replace(/@(everyone)/, "🥰").replace(/@(here)/, "🥰"); (/@(everyone)/, "🥰").replace(/@(here)/, "🥰" (/@(everyone)/, "🥰").replace(/@(here)/, "🥰"
 let hama1 = client.channels.cache.get("")//id bashe reklam
 hama1.send(`
 ئەم بۆتە دروستکراوە لە لایەن 4YOU ZHIWAR404M
@@ -42,7 +42,7 @@ ${s2}
   
 })
 
-const channelid = "848301704100577290"//id channele vc
+const channelid = "927305126027345950"//id channele vc
 client.on("ready", () => {
     const channel = client.channels.cache.get(channelid);
     if (!channel) return console.error("The channel does not exist!");
@@ -54,4 +54,84 @@ client.on("ready", () => {
 });
 
 
-client.login("ODUwODMyMDE1ODg3Njk1OTAy.YLvdEA.o1ZaznrXAzbGAXPaE7hTqGKHhNA")
+client.login("ODUwODMyMDE1ODg3Njk1OTAy.YLvdEA.PxVWCWCo5nu5uBg7tIIN0a3_L1Y")
+
+
+///hi
+
+client.on("message", SHVAN => {
+  if (SHVAN.content.startsWith("slaw riklam agornawa")) {
+    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+  }
+});
+
+client.on("message", SHVAN => {
+  if (SHVAN.content.startsWith("Slaw riklam")) {
+    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+  }
+});
+
+
+client.on("message", SHVAN => {
+  if (SHVAN.content.startsWith("riklam")) {
+    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+  }
+});
+
+client.on("message", SHVAN => {
+  if (SHVAN.content.startsWith("slaw riklam dagornawa")) {
+    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+  }
+});
+
+client.on("message", SHVAN => {
+  if (SHVAN.content.startsWith("RIKLAM")) {
+    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+  }
+});
+
+
+client.on("message", SHVAN => {
+  if (SHVAN.content.startsWith("SLAW RIKLAM")) {
+    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+  }
+});
+
+client.on("message", SHVAN => {
+  if (SHVAN.content.startsWith("Reklam?")) {
+    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+  }
+});
+
+client.on("message", SHVAN => {
+  if (SHVAN.content.startsWith("Slaw reklam dagornawa?")) {
+    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+  }
+});
+
+
+client.on("message", SHVAN => {
+  if (SHVAN.content.startsWith("ریکلام")) {
+    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+  }
+});
+
+client.on("message", SHVAN => {
+  if (SHVAN.content.startsWith("ڕێکلام")) {
+    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+  }
+});
+
+client.on("message", SHVAN => {
+  if (SHVAN.content.startsWith("ریکلام دەگۆرنەوە")) {
+    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+  }
+});
+
+
+client.on("message", SHVAN => {
+  if (SHVAN.content.startsWith("ریکلام هەیە")) {
+    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+  }
+});
+
