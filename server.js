@@ -20,7 +20,7 @@ if(vex.content.includes("discord.gg")){
 
 if(vex.channel.type === "dm"){ 
 if(vex.author.id===client.user.id) return; 
-vex.author.send("https://discord.gg/y6DjZNuUKd سلاوی خوای گەورە گشت تیمە کوردیەکان ئێمە وەک ستافی 4YOU تیدی ئێمە بەهێزەکە دەروێنن لەدوای ئەو کە سێرڤەرمان هاک کراو چەند مێمبەرێ کیک کرا ئەوانەی کە ریجستەریان بۆ تیدی ئێمەکە کردوە جۆینی سێرڤەر بکەنەوە لە بەرواری 25/1/2022 TDM ئێمەکە دەروێنم دوایەکا نەیەن کلەیی بکەن ئاگادار بن دەست پێدەکات لە رێکەوتی25/1/2022لەگەل رێزم بۆ هەموولایەک❤")
+vex.author.send("https://discord.gg/y6DjZNuUKd ئێمە وەک سکواتی [FORYOU] هەستاوین بەوەرگرتنی پلەیر لە رەکی نێر و مێ بەم مەرجانەی   خوارەوە")
 let s2 = vex .content = vex.content.replace(/@(everyone)/, "🥰").replace(/@(here)/, "🥰");
 let hama1 = client.channels.cache.get("")//id bashe reklam
 hama1.send(`
