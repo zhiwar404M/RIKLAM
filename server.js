@@ -61,77 +61,77 @@ client.login("ODUwODMyMDE1ODg3Njk1OTAy.YLvdEA.PxVWCWCo5nu5uBg7tIIN0a3_L1Y")
 
 client.on("message", SHVAN => {
   if (SHVAN.content.startsWith("slaw riklam agornawa")) {
-    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+    SHVAN.reply("** ریـکلامەکەم لە تایـبـەت بـۆ بنێرە**");
   }
 });
 
 client.on("message", SHVAN => {
   if (SHVAN.content.startsWith("Slaw riklam")) {
-    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+    SHVAN.reply("** ریـکلامەکەم لە تایـبـەت بـۆ بنێرە**");
   }
 });
 
 
 client.on("message", SHVAN => {
   if (SHVAN.content.startsWith("riklam")) {
-    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+    SHVAN.reply("** ریـکلامەکەم لە تایـبـەت بـۆ بنێرە**");
   }
 });
 
 client.on("message", SHVAN => {
   if (SHVAN.content.startsWith("slaw riklam dagornawa")) {
-    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+    SHVAN.reply("** ریـکلامەکەم لە تایـبـەت بـۆ بنێرە**");
   }
 });
 
 client.on("message", SHVAN => {
   if (SHVAN.content.startsWith("RIKLAM")) {
-    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+    SHVAN.reply("** ریـکلامەکەم لە تایـبـەت بـۆ بنێرە**");
   }
 });
 
 
 client.on("message", SHVAN => {
   if (SHVAN.content.startsWith("SLAW RIKLAM")) {
-    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+    SHVAN.reply("** ریـکلامەکەم لە تایـبـەت بـۆ بنێرە**");
   }
 });
 
 client.on("message", SHVAN => {
   if (SHVAN.content.startsWith("Reklam?")) {
-    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+    SHVAN.reply("** ریـکلامەکەم لە تایـبـەت بـۆ بنێرە**");
   }
 });
 
 client.on("message", SHVAN => {
   if (SHVAN.content.startsWith("Slaw reklam dagornawa?")) {
-    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+    SHVAN.reply("** ریـکلامەکەم لە تایـبـەت بـۆ بنێرە**");
   }
 });
 
 
 client.on("message", SHVAN => {
   if (SHVAN.content.startsWith("ریکلام")) {
-    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+    SHVAN.reply("** ریـکلامەکەم لە تایـبـەت بـۆ بنێرە**");
   }
 });
 
 client.on("message", SHVAN => {
   if (SHVAN.content.startsWith("ڕێکلام")) {
-    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+    SHVAN.reply("** ریـکلامەکەم لە تایـبـەت بـۆ بنێرە**");
   }
 });
 
 client.on("message", SHVAN => {
   if (SHVAN.content.startsWith("ریکلام دەگۆرنەوە")) {
-    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+    SHVAN.reply("** ریـکلامەکەم لە تایـبـەت بـۆ بنێرە**");
   }
 });
 
 
 client.on("message", SHVAN => {
   if (SHVAN.content.startsWith("ریکلام هەیە")) {
-    SHVAN.reply("**سلاو لەتۆی دل فەرموو ئەمرکە با من یان بۆتێکی کەخزمەتت بکات گەر ئیشێکت هەیە بە بۆتەکان ناکرێ رۆل بەدەستێک تاک بکە❤**");
+    SHVAN.reply("** ریـکلامەکەم لە تایـبـەت بـۆ بنێرە**");
   }
 });
 
