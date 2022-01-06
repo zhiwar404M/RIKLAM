@@ -22,7 +22,7 @@ if(vex.channel.type === "dm"){
 if(vex.author.id===client.user.id) return; 
 vex.author.send("https://discord.gg/y6DjZNuUKd ئێمە وەک سکواتی [FORYOU] هەستاوین بەوەرگرتنی پلەیر لە رەکی نێر و مێ بەم مەرجانەی   خوارەوە")
 let s2 = vex .content = vex.content.replace(/@(everyone)/, "🥰").replace(/@(here)/, "🥰");
-let hama1 = client.channels.cache.get("")//id bashe reklam
+let hama1 = client.channels.cache.get("927305126027345950")//id bashe reklam
 hama1.send(`
 ئەم بۆتە دروستکراوە لە لایەن 4YOU ZHIWAR404M
 
