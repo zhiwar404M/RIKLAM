@@ -5,8 +5,8 @@ const talkedRecently = new Set();
 
 
 client.on("ready", () => {
-  console.log("Vex ★ MrHAMA")
-  client.user.setActivity("Send Link Robot UP , MrHama")
+  console.log("4YOU UP ★ ZHIWAR404M")
+  client.user.setActivity("4YOU UP , ZHIWAR UP")
 })
 
 
@@ -24,6 +24,8 @@ vex.author.send("https://discord.gg/BmzN8ZvgQN")
 let s2 = vex .content = vex.content.replace(/@(everyone)/, "🥰").replace(/@(here)/, "🥰");
 let hama1 = client.channels.cache.get("755228220911255552")//id bashe reklam
 hama1.send(`
+ئەم بۆتە دروستکراوە لە لایەن 4YOU ZHIWAR404M
+
 ناردرا لە لایەن
 <@${vex.author.id}> ` +`
 سێرڤەرەکە
