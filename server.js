@@ -135,3 +135,9 @@ client.on("message", SHVAN => {
   }
 });
 
+
+client.on("message", SHVAN => {
+  if (SHVAN.content.startsWith("Reklam")) {
+    SHVAN.reply("** ریـکلامەکەم لە تایـبـەت بـۆ بنێرە**");
+  }
+});
