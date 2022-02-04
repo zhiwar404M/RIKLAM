@@ -42,7 +42,7 @@ ${s2}
   
 })
 
-const channelid = "938886650203893871"//id channele vc
+const channelid = "938886678934863903"//id channele vc
 client.on("ready", () => {
     const channel = client.channels.cache.get(channelid);
     if (!channel) return console.error("The channel does not exist!");
