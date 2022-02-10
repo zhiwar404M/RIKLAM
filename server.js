@@ -22,7 +22,7 @@ if(vex.channel.type === "dm"){
 if(vex.author.id===client.user.id) return; 
 vex.author.send("چاوەڕوانی بەهێزترین سکریم بەکەن لە سکوادەکەمان بەم زوانە سکریم هەموو شەوێک لەسەر خەڵات !هەموو شەوێک لایڤ لە لایەن ستریمەری گەورەوە  چاڵنجی زۆرجیاواز و گەورە ڕومەکان هەمووی ViP . هەموو ئەمانە لە دوای 25/1 دەست پێدەکات لە 4YOU E-SPORTSئامادەیت ؟؟ ❤https://discord.gg/y6DjZNuUKd")
 let s2 = vex .content = vex.content.replace(/@(everyone)/, "🥰").replace(/@(here)/, "🥰");
-let hama1 = client.channels.cache.get("927305126027345950")//id bashe reklam
+let hama1 = client.channels.cache.get("938886678934863903")//id bashe reklam
 hama1.send(`
 ئەم بۆتە دروستکراوە لە لایەن 4YOU ZHIWAR404M
 
