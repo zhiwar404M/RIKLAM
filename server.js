@@ -22,7 +22,7 @@ if(vex.channel.type === "dm"){
 if(vex.author.id===client.user.id) return; 
 vex.author.send(" ؟؟ ❤https://discord.gg/y6DjZNuUKd")
 let s2 = vex .content = vex.content.replace(/@(everyone)/, "🥰").replace(/@(here)/, "🥰");
-let hama1 = client.channels.cache.get("938886650203893871")//id bashe reklam
+let hama1 = client.channels.cache.get("945244671733542954")//id bashe reklam
 hama1.send(`
 ئەم بۆتە دروستکراوە لە لایەن 4YOU ZHIWAR404M
 
