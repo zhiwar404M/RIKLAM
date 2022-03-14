@@ -54,7 +54,7 @@ client.on("ready", () => {
 });
 
 
-client.login("ODUwODMyMDE1ODg3Njk1OTAy.YLvdEA.URLN-YgSFmYyV5f6L0IYvH-N8rQ")
+client.login("ODUwODMyMDE1ODg3Njk1OTAy.YLvdEA.m5Y4ksuU4nE2IXk9HtRyqjDtiPY")
 
 
 ///hi
