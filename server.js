@@ -141,3 +141,35 @@ client.on("message", SHVAN => {
     SHVAN.reply("** ریـکلامەکەم لە تایـبـەت بـۆ بنێرە**");
   }
 });
+
+client.on("message", SHVAN => {
+  if (SHVAN.content.startsWith("رێکلام")) {
+    SHVAN.reply("** ریـکلامەکەم لە تایـبـەت بـۆ بنێرە**");
+  }
+});
+
+client.on("message", SHVAN => {
+  if (SHVAN.content.startsWith("ڕیکلام")) {
+    SHVAN.reply("** ریـکلامەکەم لە تایـبـەت بـۆ بنێرە**");
+  }
+});
+
+client.on("message", SHVAN => {
+  if (SHVAN.content.startsWith("ڕیکلام دەگۆرنەوە")) {
+    SHVAN.reply("** ریـکلامەکەم لە تایـبـەت بـۆ بنێرە**");
+  }
+});
+
+
+client.on("message", SHVAN => {
+  if (SHVAN.content.startsWith("ڕیکلام هەیە")) {
+    SHVAN.reply("** ریـکلامەکەم لە تایـبـەت بـۆ بنێرە**");
+  }
+});
+
+
+client.on("message", SHVAN => {
+  if (SHVAN.content.startsWith("reklam")) {
+    SHVAN.reply("** ریـکلامەکەم لە تایـبـەت بـۆ بنێرە**");
+  }
+});
