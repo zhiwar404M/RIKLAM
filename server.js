@@ -20,7 +20,7 @@ if(vex.content.includes("discord.gg")){
 
 if(vex.channel.type === "dm"){ 
 if(vex.author.id===client.user.id) return; 
-vex.author.send(" ؟؟ ❤https://discord.gg/y6DjZNuUKd")
+vex.author.send("T.B/هەموو جۆرە کەمێک لەم سێرڤەرە دەکرێت نم/پۆپجی و مایگرافت هید.ئاگاداربە کاتەکانی پلەیر وەرگرتن لە سەعات 9 شەو تا سەعات 12:30 شەو پلەیەر وەردەگیرێت لەگەل رێزم و خۆشەویستیمان بۆ هەموو لایەک🥰@everyone https://discord.gg/eP8xvTBt")
 let s2 = vex .content = vex.content.replace(/@(everyone)/, "🥰").replace(/@(here)/, "🥰");  s2 = vex .content = vex.content.replace(/@(everyone)/, "🥰").replace(/@(here)/, "🥰"); s2 = vex .content = vex.content.replace(/@(everyone)/, "🥰").replace(/@(here)/, "🥰"); s2 = vex .content = vex.content.replace(/@(everyone)/, "🥰").replace(/@(here)/, "🥰"); s2 = vex .content = vex.content.replace(/@(everyone)/, "🥰").replace(/@(here)/, "🥰"); s2 = vex .content = vex.content.replace(/@(everyone)/, "🥰").replace(/@(here)/, "🥰"); s2 = vex .content = vex.content.replace(/@(everyone)/, "🥰").replace(/@(here)/, "🥰"); s2 = vex .content = vex.content.replace(/@(everyone)/, "🥰").replace(/@(here)/, "🥰"); s2 = vex .content = vex.content.replace(/@(everyone)/, "🥰").replace(/@(here)/, "🥰");
 let hama1 = client.channels.cache.get("994740237639098468")//id bashe reklam
 hama1.send(`
