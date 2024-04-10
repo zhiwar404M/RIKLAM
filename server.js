@@ -53,8 +53,9 @@ client.on("ready", () => {
     });
 });
 
-
-client.login("ODUwODMyMDE1ODg3Njk1OTAy.YLvdEA.m5Y4ksuU4nE2IXk9HtRyqjDtiPY")
+///////
+client.login("ODM5NDE2MDg0NzY3MDQ3NzEw.GRxRVw.FfdkhPsjt9yzpCOOzJihnXWsyhnFNnbLE9MDrY")
+////////
 
 
 ///hi
